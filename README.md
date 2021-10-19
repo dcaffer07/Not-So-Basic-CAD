@@ -4,15 +4,13 @@ We are creating a caster.
 
 ---
 ## Table of Contents
-* [Table of Contents](#Table-of-Contents)
-* [Base](#Base)
-* [Mount](#Mount)
-* [Fork](#Fork)
-* [Tire](#Tire)
-* [Wheel](#Wheel)
-* [AxleCollarBearings](#AxleCollarBearings)
+* [Intro (LetsGetStarted)](#Base)
+* [Designing the Deck](#Mount)
+* [Designing the Trucks](#Fork)
+* [Wheels and Bearings](#Tire)
+* [Putting it all Together](#Wheel)
 
-## Base
+## Intro (LetsGetStarted)
 
 ### Description
 
@@ -39,7 +37,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ---
 
 
-## Mount
+## Designing the Deck
 
 ### Description
 
@@ -52,7 +50,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ---
 
 
-## Fork
+## Designing the Trucks
 
 ### Description
 
@@ -65,7 +63,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ---
 
 
-## Tire
+## Wheels and Bearings
 
 ### Description
 
@@ -78,7 +76,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ---
 
 
-## Wheel
+## Putting it all together
 
 ### Description
 
@@ -90,18 +88,6 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ---
 
-
-## AxleCollarBearings
-
-### Description
-
-### Evidence
-
-### Image
-
-### Reflection
-
----
 
 
 
