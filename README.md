@@ -72,7 +72,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Wheels and Bearings
 
 #### Description
-No skateboard is fun to ride without wheels, so I created a new part studion and went to work.  In this assignment we siply constructed 2 rectanges that were connected to eachother using distance from the origin to make sure they were constryned.  From there the RESOLVE tool was really all that mattered, as we simple resolved the ractanages 360degrees to gove us that cricle or wheel like shape.  Thats the wheel, so now for the bearings.  We used the circles from the wheel amd estruded it as a separete thing as the first part of the bearing.  We than created a circle on the first bearing oart, extruded inward as to tae away, and than inserted a another circle which serves as almost a washer for the wheels.  Done, assign parts, assign material, put text on the wheel so you can see if it moves and completed.
+> No skateboard is fun to ride without wheels, so I created a new part studion and went to work.  In this assignment we siply constructed 2 rectanges that were connected to eachother using distance from the origin to make sure they were constryned.  From there the RESOLVE tool was really all that mattered, as we simple resolved the ractanages 360degrees to gove us that cricle or wheel like shape.  Thats the wheel, so now for the bearings.  We used the circles from the wheel amd estruded it as a separete thing as the first part of the bearing.  We than created a circle on the first bearing oart, extruded inward as to tae away, and than inserted a another circle which serves as almost a washer for the wheels.  Done, assign parts, assign material, put text on the wheel so you can see if it moves and completed.
 
 #### Evidence
 [Here is the wheels and bearings on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/7d39d24da8ba58e05d75ac03)
@@ -81,7 +81,7 @@ No skateboard is fun to ride without wheels, so I created a new part studion and
 <img src="blob:chrome-untrusted://media-app/0f6a71eb-30e4-4713-8cc5-146c6143b430" alt="wiring"  style="width:500px;">
 
 #### Reflection
-
+> Again I enjoyed this assigment as it allowed me to incorporate new things such as resolote into my build.  To be honest this really easy, and the hardest thing for me was putting text on the wheel to see if it would turn, but once I figured that our with some help I was all set, wheel and bearings done and its time to assemble!
 ---
 
 
