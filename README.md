@@ -20,7 +20,7 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 
 ### Image
 
-<img src="images/Base.jpg" alt="The Base" width="200">
+<img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/Skateboard%20Assembly.jpg" alt="The Base" width="200">
 
 ### Reflection
 
@@ -45,7 +45,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 [Here is the deck on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/45d1491abec527d91db4b32a)
 
 #### Image
-<img src="blob:chrome-untrusted://media-app/0f6a71eb-30e4-4713-8cc5-146c6143b430" alt="wiring"  style="width:500px;">
+<img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/Skateboard%20Assembly.jpg" alt="The Base" width="600">
 
 #### Reflection
 > Although I could have easily done this on my own, the module tuaght me more efficent ways to go about thin in onshape. For example last year I would have likely created 2 circles on each side however with this I simply used the symetry function and it was so much easier.  Another example of this would be with the circles where I simply created two linear patterns to get them in the right spot raher than dong each one individually.  All in all I think it refreshed my mind and got me back in the groove!
@@ -94,7 +94,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 [Here is the assembly and final product on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/0ac9ccb9a816ba8ee80d4950)
 
 ### Image
-<img src="blob:chrome-untrusted://media-app/7fc2de50-9343-4796-936a-427935983e9a" alt="wiring"  style="width:500px;">
+<img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/Skateboard%20Assembly.jpg" alt="The Base" width="600">
 
 ### Reflection
 > This was a really cool assignment.  I have always been more of a CAD kind of person and this was great, partially because it was not overly complicated, but mainly because unlike the caster(no offence and I loved the caster assgnemnt), we can actually use something like this inreal life and it is something that we are all interested.  I thought thatThis was a perfect assignment to get back into it and I look forward to what the future holds!!!!!!!!!
