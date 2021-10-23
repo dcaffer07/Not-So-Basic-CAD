@@ -79,7 +79,7 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 > This was a really cool assignment.  I have always been more of a CAD kind of person and this was great, partially because it was not overly complicated, but mainly because unlike the caster(no offence and I loved the caster assgnemnt), we can actually use something like this inreal life and it is something that we are all interested.  I thought thatThis was a perfect assignment to get back into it and I look forward to what the future holds!!!!!!!!!
 ---
 
-* [Back to Top](https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/README.md#designing-the-deck)
+* [Back to Top](https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/README.md#cad-review-e2-notsobasiccad)
 
 
 
