@@ -88,15 +88,16 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Putting it all together
 
 ### Description
+> Peronally I though that this was the easiest part, we simply used mate connectors which we have done hundreds of times and some like the wheels were resolute mates but for the most part they were just stright up, match the dots fastened mates.  The only thing thatwas new here was when selecing tings such as screws, you simply clciked on all of the screw or nut you wanted to insert and than selected the areas that you wanted to put them in and all at oce they were added rather than doing it one by one.  This was just so much easier and is a  more conveniant way to go about assemblings things such as those.  But after a few minutes of random parts and a few fastened mates, I have my SKATEBOARD!
 
 ### Evidence
-[Here is the deck on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/45d1491abec527d91db4b32a)
+[Here is the assembly and final product on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/0ac9ccb9a816ba8ee80d4950)
 
 ### Image
-<img src="blob:chrome-untrusted://media-app/0f6a71eb-30e4-4713-8cc5-146c6143b430" alt="wiring"  style="width:500px;">
+<img src="blob:chrome-untrusted://media-app/7fc2de50-9343-4796-936a-427935983e9a" alt="wiring"  style="width:500px;">
 
 ### Reflection
-
+> This was a really cool assignment.  I have always been more of a CAD kind of person and this was great, partially because it was not overly complicated, but mainly because unlike the caster(no offence and I loved the caster assgnemnt), we can actually use something like this inreal life and it is something that we are all interested.  I thought thatThis was a perfect assignment to get back into it and I look forward to what the future holds!!!!!!!!!
 ---
 
 
