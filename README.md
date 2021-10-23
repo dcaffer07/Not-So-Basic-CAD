@@ -8,7 +8,7 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 * [Designing the Deck](#Mount)
 * [Designing the Trucks](#Fork)
 * [Wheels and Bearings](#Tire)
-* [Putting it all Together](#Wheel)
+* [Putting it all Together](https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/README.md#putting-it-all-together)
 
 ### Intro (Purpose of these assignments) 
 
