@@ -45,7 +45,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 [Here is the deck on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/45d1491abec527d91db4b32a)
 
 #### Image
-<img src="blob:chrome-untrusted://media-app/0f6a71eb-30e4-4713-8cc5-146c6143b430" alt="wiring"  style="width:500px;">
+<img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/TheDeck.png" alt="wiring"  style="width:500px;">
 
 #### Reflection
 > Although I could have easily done this on my own, the module tuaght me more efficent ways to go about thin in onshape. For example last year I would have likely created 2 circles on each side however with this I simply used the symetry function and it was so much easier.  Another example of this would be with the circles where I simply created two linear patterns to get them in the right spot raher than dong each one individually.  All in all I think it refreshed my mind and got me back in the groove!
