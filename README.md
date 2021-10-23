@@ -15,27 +15,6 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 > In this unit i'm going to model a skateboard. First, I will get started with the deck, and then eventually I will design the whole thing! Along the way we will refresh our knowlegde oof how to operate OnShape and we will also introduce ourselves to new functions in order to expand our knowledge to make us better engineers.  The goal with this is to remind ourself of how to use this so that we can combind our knowledge of code with CAD to create something cool!
 
 
-### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
-
-### Image
-
-<img src="blob:chrome-untrusted://media-app/ad32ff6b-4e2a-482b-b5c3-7e9f5883bf02" alt="The Base" width="200">
-
-### Reflection
-
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
-
----
-
-
 ## Designing the Deck
 
 #### Description
@@ -78,7 +57,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 [Here is the wheels and bearings on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/7d39d24da8ba58e05d75ac03)
 
 #### Image
-<img src="blob:chrome-untrusted://media-app/0f6a71eb-30e4-4713-8cc5-146c6143b430" alt="wiring"  style="width:500px;">
+<img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/Wheels.png" alt="wiring"  style="width:500px;">
 
 #### Reflection
 > Again I enjoyed this assigment as it allowed me to incorporate new things such as resolote into my build.  To be honest this really easy, and the hardest thing for me was putting text on the wheel to see if it would turn, but once I figured that our with some help I was all set, wheel and bearings done and its time to assemble!
