@@ -59,7 +59,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 > This assignemnt was kind of split into two pieces, designing the truck baseplate and designing the truck hanger. We first created a new part and began t sketch the main par of the baseball on the bottom of the deck and than we simply extruded.  We than used the use tool to create the other two peices of the base plate by again just using the original dimentions with some small adjustmants than extruding.  We than created the actuall truck by drawing a 2 concentric circles and extruding.  However at this point we need something to connect the two since we have a truck floating in mid air.  This is where the hanger came in, and we simply usedstuff we had previously defined extrude peices which would connect them.  from here it was more filleting for cleaning up purposes and bam, we are done with this section. Oh and we assigned each peice a unique material!
 
 #### Evidence
-[Here are he Trucks on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/45d1491abec527d91db4b32a)
+[Here are the Trucks on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/45d1491abec527d91db4b32a)
 
 #### Image
 <img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/Trucks.png" alt="wiring"  style="width:500px;">
@@ -94,7 +94,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 [Here is the assembly and final product on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/0ac9ccb9a816ba8ee80d4950)
 
 ### Image
-<img src="blob:chrome-untrusted://media-app/7fc2de50-9343-4796-936a-427935983e9a" alt="wiring"  style="width:500px;">
+<img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/Skateboard%20Assembly.jpg" alt="wiring"  style="width:500px;">
 
 ### Reflection
 > This was a really cool assignment.  I have always been more of a CAD kind of person and this was great, partially because it was not overly complicated, but mainly because unlike the caster(no offence and I loved the caster assgnemnt), we can actually use something like this inreal life and it is something that we are all interested.  I thought thatThis was a perfect assignment to get back into it and I look forward to what the future holds!!!!!!!!!
