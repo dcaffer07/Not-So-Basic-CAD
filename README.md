@@ -6,7 +6,7 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 ## Table of Contents
 * [Intro (LetsGetStarted)](#Base)
 * [Designing the Deck](#Mount)
-* [Designing the Trucks](#Fork)
+* [Designing the Trucks](https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/README.md#designing-the-trucks)
 * [Wheels and Bearings](https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/README.md#wheels-and-bearings)
 * [Putting it all Together](https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/README.md#putting-it-all-together)
 
