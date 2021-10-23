@@ -66,16 +66,16 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 
 ## Putting it all together
 
-### Description
+#### Description
 > Peronally I though that this was the easiest part, we simply used mate connectors which we have done hundreds of times and some like the wheels were resolute mates but for the most part they were just stright up, match the dots fastened mates.  The only thing thatwas new here was when selecing tings such as screws, you simply clciked on all of the screw or nut you wanted to insert and than selected the areas that you wanted to put them in and all at oce they were added rather than doing it one by one.  This was just so much easier and is a  more conveniant way to go about assemblings things such as those.  But after a few minutes of random parts and a few fastened mates, I have my SKATEBOARD!
 
-### Evidence
+#### Evidence
 [Here is the assembly and final product on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/0ac9ccb9a816ba8ee80d4950)
 
-### Image
+#### Image
 <img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/Skateboard%20Assembly.jpg" alt="wiring"  style="width:500px;">
 
-### Reflection
+#### Reflection
 > This was a really cool assignment.  I have always been more of a CAD kind of person and this was great, partially because it was not overly complicated, but mainly because unlike the caster(no offence and I loved the caster assgnemnt), we can actually use something like this inreal life and it is something that we are all interested.  I thought thatThis was a perfect assignment to get back into it and I look forward to what the future holds!!!!!!!!!
 ---
 
