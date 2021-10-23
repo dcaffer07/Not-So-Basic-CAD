@@ -62,7 +62,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 [Here are he Trucks on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/45d1491abec527d91db4b32a)
 
 #### Image
-<img src="blob:chrome-untrusted://media-app/0f6a71eb-30e4-4713-8cc5-146c6143b430" alt="wiring"  style="width:500px;">
+<img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/Trucks.png" alt="wiring"  style="width:500px;">
 
 #### Reflection
 > Again, could I have done this by my self? yes, but this step-by-step walk through allowed for me to check my work and go about it in a more effecient and cntrolled manner which just expanded my tool kit for future endeavors.  In this step the USE tool and fillet tools were essential and allowed for me to use thigs I had previously fabricated to create this just making my life sooo much easier in the long run.
