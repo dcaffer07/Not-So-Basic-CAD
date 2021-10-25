@@ -57,7 +57,7 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 [Here is the wheels and bearings on OnShape](https://cvilleschools.onshape.com/documents/b867c8594dfd307c2c9359c4/w/6b746ecde74103470425d771/e/7d39d24da8ba58e05d75ac03)
 
 #### Image
-<img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/Wheels.png" alt="wiring"  style="width:500px;">
+<img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/GoodWheelScreenshot.png?raw=true" alt="wiring"  style="width:500px;">
 
 #### Reflection
 > Again I enjoyed this assigment as it allowed me to incorporate new things such as resolote into my build.  To be honest this really easy, and the hardest thing for me was putting text on the wheel to see if it would turn, but once I figured that our with some help I was all set, wheel and bearings done and its time to assemble!
