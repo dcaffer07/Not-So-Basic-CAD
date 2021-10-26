@@ -27,7 +27,13 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 <img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/goodDeckPic.png" alt="wiring"  style="width:500px;">
 
 #### Reflection
-> Although I could have easily done this on my own, the module tuaght me more efficent ways to go about thin in onshape. For example last year I would have likely created 2 circles on each side however with this I simply used the symetry function and it was so much easier.  Another example of this would be with the circles where I simply created two linear patterns to get them in the right spot raher than dong each one individually.  All in all I think it refreshed my mind and got me back in the groove!
+> Although I could have easily done this on my own, the module tuaght me more efficent ways to go about thin in onshape... 
+> - Use the mirror function and symetrey function as fequently as possible like how the board is symetric, and so do half and mirror across.
+> - Work smarter not harder, which fillet all theing at once rather than individually.
+> - Always label things in an OnShape document such as parts so that you actually know what is going on.
+> - Fasten about origin so that all is fixed to work with.
+
+> All of these things simply made the process easier and more fluid which is always a positive. 
 
 ---
 
@@ -44,7 +50,12 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 <img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/goodTruckPic.png" alt="wiring"  style="width:500px;">
 
 #### Reflection
-> Again, could I have done this by my self? yes, but this step-by-step walk through allowed for me to check my work and go about it in a more effecient and cntrolled manner which just expanded my tool kit for future endeavors.  In this step the USE tool and fillet tools were essential and allowed for me to use thigs I had previously fabricated to create this just making my life sooo much easier in the long run.
+> Again, I learned how to use OnShape more effectively inw ays such as...
+> - Use the USE tool whenever you can.  You already have the things constructed, so no need to make a new one.
+> - AGain, when placing Fillets, select the fillet functions, select the entities to fillet, and than all at one select insert or generate.
+> - By sketching on differnt planes (which on this case required sketches on 3 different planes) you can maximize simplicity and capability. 
+
+> All of these things will be things that I can use as applicable info in the future.
 ---
 
 
@@ -60,7 +71,12 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 <img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/GoodWheelScreenshot.png?raw=true" alt="wiring"  style="width:500px;">
 
 #### Reflection
-> Again I enjoyed this assigment as it allowed me to incorporate new things such as resolote into my build.  To be honest this really easy, and the hardest thing for me was putting text on the wheel to see if it would turn, but once I figured that our with some help I was all set, wheel and bearings done and its time to assemble!
+> Another cool assigment with yet more major takaways...
+> - The resolute tool is your friend, do not try to extrude two ways to create something circular, simply sketch the shape on a plane and resolute.
+> - I learned how the extrude remove function excists and how in that case when I needed to remove something to insert a bearing, use the extrude remove rather than creating a weird shape to begin with.
+> When inserting text onto a design, simply sketch on desired face and enter sketch box with constraints.  done, quick, easy.
+
+> This assignemnt was cool because it forced me to leave my confort zone and explore new functions.
 ---
 
 
@@ -76,7 +92,12 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 <img src="https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/goodAssemblyPic.png" alt="wiring"  style="width:500px;">
 
 #### Reflection
-> This was a really cool assignment.  I have always been more of a CAD kind of person and this was great, partially because it was not overly complicated, but mainly because unlike the caster(no offence and I loved the caster assgnemnt), we can actually use something like this inreal life and it is something that we are all interested.  I thought thatThis was a perfect assignment to get back into it and I look forward to what the future holds!!!!!!!!!
+> This was pretty straight forward but again some major takaways for the future...
+> - When inserting base, set about the origine so you have one defined part.
+> - When inserting things such as screws or nuts, do not do it one by one, pick all spots and insert all once.
+> - Make sure that mates such as ones for wheels are resolute so they can turn.
+
+> Skateboard complete!
 ---
 
 * [Back to Top](https://github.com/dcaffer07/Not-So-Basic-CAD/blob/main/README.md#cad-review-e2-notsobasiccad)
