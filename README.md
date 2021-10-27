@@ -29,9 +29,9 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 #### Reflection
 > Although I could have easily done this on my own, the module tuaght me more efficent ways to go about thin in onshape... 
 > - Use the mirror function and symetrey function as fequently as possible like how the board is symetric, and so do half and mirror across.
-> - Work smarter not harder, which fillet all theing at once rather than individually.
+> - Work smarter not harder, which means fillet all things at once rather than individually.
 > - Always label things in an OnShape document such as parts so that you actually know what is going on.
-> - Fasten about origin so that all is fixed to work with.
+> - Satrt sketch about origin so that all is centered to work with.
 
 > All of these things simply made the process easier and more fluid which is always a positive. 
 
