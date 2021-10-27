@@ -32,7 +32,7 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 > - Work smarter not harder, which means fillet all things at once rather than individually.
 > - Always label things in an OnShape document such as parts so that you actually know what is going on.
 > - Satrt sketch about origin so that all is centered to work with.
-
+>
 > All of these things simply made the process easier and more fluid which is always a positive. 
 
 ---
@@ -54,7 +54,7 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 > - Use the USE tool whenever you can.  You already have the things constructed, so no need to make a new one.
 > - AGain, when placing Fillets, select the fillet functions, select the entities to fillet, and than all at one select insert or generate.
 > - By sketching on differnt planes (which on this case required sketches on 3 different planes) you can maximize simplicity and capability. 
-
+>
 > All of these things will be things that I can use as applicable info in the future.
 ---
 
@@ -75,7 +75,7 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 > - The resolute tool is your friend, do not try to extrude two ways to create something circular, simply sketch the shape on a plane and resolute.
 > - I learned how the extrude remove function excists and how in that case when I needed to remove something to insert a bearing, use the extrude remove rather than creating a weird shape to begin with.
 > When inserting text onto a design, simply sketch on desired face and enter sketch box with constraints.  done, quick, easy.
-
+>
 > This assignemnt was cool because it forced me to leave my confort zone and explore new functions.
 ---
 
@@ -96,7 +96,7 @@ We are creating a skateboard.  [View the assignment in OnShape](https://cad.onsh
 > - When inserting base, set about the origine so you have one defined part.
 > - When inserting things such as screws or nuts, do not do it one by one, pick all spots and insert all once.
 > - Make sure that mates such as ones for wheels are resolute so they can turn.
-
+>
 > Skateboard complete!
 ---
 
